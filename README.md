@@ -2,7 +2,7 @@
 
 Prerequisites
 Firefox browser.
-You must have the Tor service installed and running for this to propery work. Reddit limits account creation from individual IP addresses and Tor allows you to get around this.
+You must have the Tor service installed and running for this to properly work. Reddit limits account creation from individual IP addresses and Tor allows you to get around this.
 
 sudo apt-get install tor
 Selenium
