@@ -1,8 +1,9 @@
 ## Improved Reddit Mass Account Generator/Upvoting
 
 
-***UPDATE 11/22*** https://forum.torproject.net/t/reddit-onion-service-launch/5305
-Reddit now has it's own hidden service available below
+***UPDATE 11/22***<br>
+Reddit now has it's own hidden service available below<br>
+https://forum.torproject.net/t/reddit-onion-service-launch/5305
 https://old.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/
 
 Prerequisites
