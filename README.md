@@ -1,5 +1,10 @@
 ## Improved Reddit Mass Account Generator/Upvoting
 
+
+***UPDATE 11/22*** https://forum.torproject.net/t/reddit-onion-service-launch/5305
+Reddit now has it's own hidden service available below
+https://old.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/
+
 Prerequisites
 Firefox browser.
 You must have the Tor service installed and running for this to properly work. Reddit limits account creation from individual IP addresses and Tor allows you to get around this.
